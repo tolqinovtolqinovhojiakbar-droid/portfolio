@@ -137,6 +137,12 @@ li{
     margin-left: 50px;
     margin-top: 70px;
 }
+
+.info__ing {
+    width: 375px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
 .pr{
     font-size: 28px;
     padding-top: 28px;
